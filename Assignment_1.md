@@ -48,6 +48,9 @@ Below are concepts I learned:
 #### Dislike:
 * Few advanced concepts are understandable only after lots of practice & hands-on experience.
 
+### What is confusing?
+* Pull request to merge from two seperate branches is little confusing. I need to learn more about it. 
+
 ### What would I like to see more? 
 Course consists of valuable content like GitHub, Azure Fundamentals, Azure data Fundamentals and Google cloud platform. More depth knowledge on such valuable content will be very helpful.
 
